@@ -1,0 +1,28 @@
+.product-card{
+  height: 260px;
+  width: 200px;
+  margin: 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #A8DADC ;
+  border-radius: 8px;
+  border: 1px solid darkgray;
+}
+
+.addBtn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #457B9D;
+  height: 30px;
+  width: 100px;
+  border-radius: 8px;
+  color: white;
+}
+
+.button-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
